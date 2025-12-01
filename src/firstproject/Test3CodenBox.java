@@ -98,6 +98,9 @@ mySelector.selectByIndex(RadnomIndex);
 		CheckOptions.get(i).click();	
 		
 		
+		System.out.println("123");
+		
+		
 	}
 }
 	@Test ( enabled = false )
